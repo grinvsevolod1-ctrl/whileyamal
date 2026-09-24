@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: 'Вакансии — работа водителем и логистом в TRANSLINE',
   description:
     'Работа в логистическом центре TRANSLINE: водители кат. B, C, CE/E, экспедиторы, кладовщики и стажёры без опыта. Белая зарплата, еженедельные выплаты, свежий автопарк, топливные карты. Откликайтесь онлайн.',
-  alternates: { canonical: 'https://transline.by/vacancies' },
+  alternates: { canonical: 'https://whileyamal.ru/vacancies' },
 }
 
 export default function VacanciesPage() {

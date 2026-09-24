@@ -15,7 +15,7 @@ const sora = Sora({
   display: 'swap',
 })
 
-const SITE_URL = 'https://transline.by'
+  const SITE_URL = 'https://whileyamal.ru'
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),

@@ -5,7 +5,7 @@
 module.exports = {
   apps: [
     {
-      name: 'transline',
+      name: 'whileyamal',
       script: '.next/standalone/server.js',
       cwd: __dirname,
       instances: 1,

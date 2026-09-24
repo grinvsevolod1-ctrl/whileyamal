@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: 'Каталог услуг — грузоперевозки и складская логистика',
   description:
     'Полный каталог услуг TRANSLINE: доставка по городу, межгород и магистраль, сборные грузы, рефрижераторы, негабарит, склад и фулфилмент. Условия и что входит в каждую услугу.',
-  alternates: { canonical: 'https://transline.by/uslugi' },
+  alternates: { canonical: 'https://whileyamal.ru/uslugi' },
 }
 
 const DETAILS: Record<string, string[]> = {
