@@ -12,8 +12,9 @@ module.exports = {
       exec_mode: 'fork',
       env: {
         NODE_ENV: 'production',
-        PORT: 3000,
-        HOSTNAME: '0.0.0.0',
+        // 3000 = docker white-page, 3001 = docker black-page — заняты. Используем 3002.
+        PORT: 3002,
+        HOSTNAME: '127.0.0.1',
       },
       max_memory_restart: '512M',
     },
